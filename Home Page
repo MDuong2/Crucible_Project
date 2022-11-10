@@ -1,0 +1,26 @@
+/*
+
+
+
+
+
+*/
+import SwiftUI
+
+struct CategoryHome : View{
+  static var Page: String Home
+}
+
+struct CategoryNutrition : View{
+  static var Page: String Nut 
+}
+struct CategoryFitness: View{
+  static var Page: String Fit
+}
+struct CategorySocial : View{
+  static var Page: String Social
+}
+
+struct CategorySettings : View{
+  
+}
